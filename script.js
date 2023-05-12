@@ -210,6 +210,7 @@ const getnewLocation = async function () {
   }
 };
 getnewLocation();
+console.log('hello');
 
 //Error Handling with try...catch.
 // const whereAmI = function (lat, long) {
